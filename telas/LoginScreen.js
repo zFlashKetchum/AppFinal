@@ -32,7 +32,7 @@ const LoginScreen = () => {
 
   return (
     <ImageBackground 
-      source={require('../assets/fundo.jpg')} // Adicione a imagem de fundo
+      source={require('../assets/download.jpg')} // Adicione a imagem de fundo
       style={styles.container}
     >
       <View style={styles.formContainer}>
